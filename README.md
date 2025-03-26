@@ -71,6 +71,8 @@ you can find all the documentation [here](https://nest-modules.github.io/mailer/
 * [Paweł Partyka](https://github.com/partyka95)
 * [Wasutan Kitijerapat](https://github.com/kitimark)
 * [Alexandre Titeux](https://github.com/GFoniX)
+* [ANh Nguyễn](https://github.com/AnhNg6262)
+* [Teodor Petrovic](https://github.com/TeodorPetrovic/)
 
 ### License
 

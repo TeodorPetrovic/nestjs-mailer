@@ -9,13 +9,13 @@
     "mailer",
     "nodejs"
   ],
-  "homepage": "https://github.com/nest-modules/mailer#readme",
+  "homepage": "https://github.com/TeodorPetrovic/nestjs-mailer#readme",
   "bugs": {
-    "url": "https://github.com/nest-modules/mailer/issues"
+    "url": "https://github.com/TeodorPetrovic/nestjs-mailer/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nest-modules/mailer.git"
+    "url": "git+https://github.com/TeodorPetrovic/nestjs-mailer.git"
   },
   "license": "MIT",
   "author": "Nest Modules TM",
