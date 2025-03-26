@@ -5,7 +5,12 @@
 </p>
 
 <p align="center">
-  A mailer module for Nest framework (node.js) using <a href="https://nodemailer.com/">Nodemailer</a> library
+  A mailer module for Nest framework (node.js) using <a href="https://nodemailer.com/">Nodemailer</a> library,
+  this was created from a fork of an existing package but was not updated, <a href="https://www.npmjs.com/package/@nestjs-modules/mailer">LINK</a>,
+  the main contributor here is the github user AnhNg6262 who made these fixes <a href="https://github.com/nest-modules/mailer/pull/1242"> GIT PULL </a>,
+  i did not know i he made a package already, but i did for my project. It should work haha, all my test did pass.
+
+  Do not use in production
 </p>
 
 <p align="center">
